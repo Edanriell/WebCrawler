@@ -32,4 +32,3 @@ func getHTML(rawURL string) (string, error) {
 
 	return htmlBody, nil
 }
-

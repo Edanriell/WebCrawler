@@ -41,4 +41,3 @@ func getURLsFromHTML(htmlBody string, baseURL *url.URL) ([]string, error) {
 
 	return urls, nil
 }
-

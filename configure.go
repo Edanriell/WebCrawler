@@ -49,4 +49,3 @@ func configure(rawBaseURL string, maxConcurrency int, maxPages int) (*config, er
 		maxPages:           maxPages,
 	}, nil
 }
-

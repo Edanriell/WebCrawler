@@ -38,4 +38,3 @@ func sortPages(pages map[string]int) []Page {
 	})
 	return pagesSlice
 }
-

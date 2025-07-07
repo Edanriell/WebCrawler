@@ -45,4 +45,3 @@ func main() {
 
 	printReport(cfg.pages, rawBaseURL)
 }
-

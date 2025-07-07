@@ -20,4 +20,3 @@ func normalizeURL(rawURL string) (string, error) {
 
 	return fullPath, nil
 }
-

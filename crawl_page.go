@@ -57,4 +57,3 @@ func (cfg *config) crawlPage(rawCurrentURL string) {
 		go cfg.crawlPage(nextURL)
 	}
 }
-
